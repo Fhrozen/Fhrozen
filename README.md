@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fhrozen
+- 👋 Hi, I’m @Fhrozen [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X3RXZPP)
 - 👀 I’m interested in signal/sound/acoustics processing, machine learning, deep learning, speech and spoken language processing, and robotics.
 - 🌱 I’m currently learning robotics.
 - 💞️ I’m looking to collaborate on open source projects.
