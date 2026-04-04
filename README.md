@@ -5,8 +5,8 @@
 - 📫 How to reach me nelson.yalta@ieee.org
 
 ![Stats](./profile/stats.svg)
+
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 <!---
 Fhrozen/Fhrozen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
