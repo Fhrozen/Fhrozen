@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me nelson.yalta@ieee.org
 
-![Fhrozen GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fhrozen&show_icons=true)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 <!---
 Fhrozen/Fhrozen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
